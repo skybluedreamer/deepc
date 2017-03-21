@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main()
+{
+  printf("I will learn c deeply and make the wonderful happen..");
+}
